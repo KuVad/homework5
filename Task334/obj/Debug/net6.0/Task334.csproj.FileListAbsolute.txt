@@ -1,0 +1,15 @@
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\bin\Debug\net6.0\Task334.exe
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\bin\Debug\net6.0\Task334.deps.json
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\bin\Debug\net6.0\Task334.runtimeconfig.json
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\bin\Debug\net6.0\Task334.dll
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\bin\Debug\net6.0\Task334.pdb
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\obj\Debug\net6.0\Task334.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\obj\Debug\net6.0\Task334.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\obj\Debug\net6.0\Task334.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\obj\Debug\net6.0\Task334.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\obj\Debug\net6.0\Task334.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\obj\Debug\net6.0\Task334.dll
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\obj\Debug\net6.0\refint\Task334.dll
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\obj\Debug\net6.0\Task334.pdb
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\obj\Debug\net6.0\Task334.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\проект git\GeekBrains\projectsC#\homework5\Task334\obj\Debug\net6.0\ref\Task334.dll
